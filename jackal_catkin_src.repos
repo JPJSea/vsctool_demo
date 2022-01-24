@@ -1,0 +1,89 @@
+repositories:
+  catkin_simple:
+    type: git
+    url: https://github.com/catkin/catkin_simple
+    version: master
+  custom_jackal:
+    type: git
+    url: git@github.com:JPJSea/custom_jackal.git
+    version: jess
+  custom_jackal_bringup:
+    type: git
+    url: git@github.com:EEEManchester/custom_jackal_bringup.git
+    version: 986209f89add2ed65d80da05c2b9e625cb988dda
+  custom_jackal_description:
+    type: git
+    url: git@github.com:EEEManchester/custom_jackal_description.git
+    version: 60070444de781b38a9301238ad9a1d1aa0718dfb
+  custom_jackal_mbf_navigation:
+    type: git
+    url: git@github.com:EEEManchester/custom_jackal_mbf_navigation.git
+    version: 2b569d891f9b276dfd2cc3fc1ca3612c9250a9a8
+  ds4_driver:
+    type: git
+    url: git@github.com:EEEManchester/ds4_driver.git
+    version: a8ec5cbad345d77a03208105c39611179fe008f4
+  eigen_checks:
+    type: git
+    url: https://github.com/ethz-asl/eigen_checks.git
+    version: 22a6247a3df11bc285d43d1a030f4e874a413997
+  ethz_piksi_ros:
+    type: git
+    url: https://github.com/ethz-asl/ethz_piksi_ros.git
+    version: a29404938e4971438e0afa2219fae902f64bebac
+  geodetic_utils:
+    type: git
+    url: https://github.com/ethz-asl/geodetic_utils.git
+    version: master
+  slam_toolbox:
+    type: git
+    url: https://github.com/SteveMacenski/slam_toolbox.git
+    version: melodic-devel
+  ira_laser_tools:
+    type: git
+    url: https://github.com/iralabdisco/ira_laser_tools.git
+    version: ros1-master
+  mbf_recovery_behaviours:
+    type: git
+    url: git@github.com:EEEManchester/mbf_recovery_behaviours.git
+    version: master
+  move_base_flex:
+    type: git
+    url: https://github.com/magazino/move_base_flex.git
+    version: 9cff042da8f542352d7af7a584fcb870328a6471
+  radeye:
+    type: git
+    url: git@github.com:EEEManchester/radeye.git
+    version: master
+  radiation_layer:
+    type: git
+    url: git@github.com:EEEManchester/radiation_layer.git
+    version: c6387f9129059c855e0a021bf1bcf1698bbae51e
+  realsense_gazebo_plugin:
+    type: git
+    url: git@github.com:EEEManchester/realsense_gazebo_plugin.git
+    version: melodic-devel
+  sparse_bundle_adjustment:
+    type: git
+    url: git@github.com:ros-perception/sparse_bundle_adjustment.git
+    version: melodic-devel
+  velodyne_tools/velodyne_simulator:
+    type: git
+    url: git@github.com:EEEManchester/velodyne_simulator.git
+    version: master
+  velodyne_tools/velodyne:
+    type: git
+    url: https://github.com/EEEManchester/velodyne.git
+    version: master
+  waypoint_planner:
+    type: git
+    url: git@github.com:EEEManchester/waypoint_planner.git
+    version: master
+  yocs_velocity_smoother:
+    type: git
+    url: git@github.com:EEEManchester/yocs_velocity_smoother.git
+    version: master
+  jackal_catkin_src:
+    type: git
+    url: git@github.com:JPJSea/jackal_catkin_src.git
+    version: jess
